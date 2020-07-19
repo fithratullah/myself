@@ -1,0 +1,91 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+.Top-container{
+  padding-top: 10px;
+  background-color: #dae1e7;
+
+
+}
+h1{
+  margin-top: 0;
+  font-family: 'Satisfy', cursive;
+  font-size: 5em;
+  margin: 0;
+}
+h2{
+  font-family: 'Mrs Saint Delafield', cursive;
+  font-size: 3em;
+}
+h3{
+  font-family: 'Manrope', sans-serif;
+}
+p{
+  font-family: 'Manrope', sans-serif;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.bottomcloud{
+  position: absolute;
+  width:20%;
+}
+.globe{
+  width: 20%;
+}
+.topcloud{
+  position: relative;
+  left: 250px;
+  width: 8%;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 10px;
+  width: 10%;
+  background-color: white;
+  border-color: #EAF6F6;
+  margin: 80px auto;
+  clear: both;
+}
+.phone{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.gym{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.fotodiri{
+
+  width: 15%;
+}
+.par{
+  text-align: justify;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+.bottom-container{
+  background-color: #dae1e7;
+  margin-top: 15px;
+
+}
+.footer{
+  margin: 20px;
+  font-family: 'Manrope', sans-serif;
+
+}
+.form{
+  font-family: 'Manrope', sans-serif;
+}
